@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * main - Entry point 
+ * main - Entry point
  *
- * Description: A C *
+ * Description: A C
  *
  * Return: always 0 (success)
 */
