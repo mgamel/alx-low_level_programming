@@ -1,10 +1,11 @@
 #include<stdio.h>
-/*
- * Main - entry
+
+/**
+ * main - Entry point
  *
- * Description: A C program that print c
+ * Description: A C
  *
- * Return: always (0)
+ * Return: always 0 (success)
 */
 
 int main(void)
