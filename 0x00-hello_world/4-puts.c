@@ -1,7 +1,12 @@
 #include<stdio.h>
-/*
+
+/**
  * main -Entry point 
- * Description:A C **/
+ *
+ * Description:A C *
+ *
+ * return : always 0
+ */
 
 int main()
 {
